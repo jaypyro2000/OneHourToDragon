@@ -1,0 +1,1 @@
+execute run function onehourtodragon:timetodragon {time:60}

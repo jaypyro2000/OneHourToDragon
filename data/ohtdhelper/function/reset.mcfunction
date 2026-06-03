@@ -1,0 +1,3 @@
+schedule clear ohtdhelper:ten_seconds
+schedule clear ohtdhelper:sixty_seconds
+schedule clear ohtdhelper:dispatcher

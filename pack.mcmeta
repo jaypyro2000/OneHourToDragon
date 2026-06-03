@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 101,
+    "min_format": 101,
+    "max_format": 101,
+    "description": "Gives you one hour (or a your specified amount of time) before you face the dragon."
+  }
+}
